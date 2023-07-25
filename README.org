@@ -1,0 +1,10 @@
+* cl-erlang-term
+
+Common Lisp implementation of the Erlang External Term Format
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/flambard/cl-erlang-term.git   |
+| commit  | e2dd56f  |
+| systems | cl-erlang-term |
+|---------+-------------------------------------------|
+
