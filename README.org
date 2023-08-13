@@ -5,5 +5,5 @@ Common Lisp implementation of the Erlang External Term Format
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/flambard/cl-erlang-term.git |
 | commit  | e2dd56f                                            |
-| systems | (erlang-term erlang-term-trivia)                   |
+| systems | erlang-term erlang-term-trivia                     |
 |---------+----------------------------------------------------|
